@@ -1,7 +1,3 @@
-Certainly! Here's a sample description for your GitHub repository focused on understanding projects involving HTML, CSS, and Bootstrap:
-
----
-
 # Understanding HTML, CSS, and Bootstrap Projects
 
 Welcome to the repository dedicated to exploring the fundamentals of web development using HTML, CSS, and Bootstrap! 🌐💻
